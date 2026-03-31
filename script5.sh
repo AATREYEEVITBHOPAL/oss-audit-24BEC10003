@@ -21,8 +21,8 @@ OUTPUT="manifesto_$(current_user).txt"   # e.g., manifesto_shubham.txt
 
 # --- Display intro banner ---
 echo "============================================================"
-echo "      OPEN SOURCE MANIFESTO GENERATOR — Shubham Kumar      "
-echo "      Roll No: 24BCG10078 | Course: OSS Capstone           "
+echo "      OPEN SOURCE MANIFESTO GENERATOR — Aatreyee Bhattacharjee "
+echo "      Roll No: 24BEC10003 | Course: OSS Capstone           "
 echo "============================================================"
 echo ""
 echo "  This tool generates your personal open-source philosophy"
@@ -61,7 +61,7 @@ DATE=$(today)
 
 # --- String concatenation to build the manifesto ---
 # Each paragraph is built by joining variables with descriptive text
-PARA1="I, Aatreyee Bhattacharjee | Roll No: 24BEC10003, believe in the power of open source."
+PARA1="I, Aatreyee Bhattacharjee | 24BEC10003, believe in the power of open source."
 PARA1="$PARA1 Every day, I use $TOOL — a tool built not by a corporation, but by"
 PARA1="$PARA1 a community of people who chose to share their work with the world."
 PARA1="$PARA1 That choice changed everything."
@@ -103,8 +103,8 @@ echo "" >> "$OUTPUT"
 
 # Append a closing signature
 echo "------------------------------------------------------------" >> "$OUTPUT"
-echo "  Signed: Shubham Kumar" >> "$OUTPUT"
-echo "  Roll:   24BCG10078" >> "$OUTPUT"
+echo "  Signed: Aatreyee Bhattacharjee" >> "$OUTPUT"
+echo "  Roll:   24BEC10003" >> "$OUTPUT"
 echo "  Date:   $DATE" >> "$OUTPUT"
 echo "============================================================" >> "$OUTPUT"
 
