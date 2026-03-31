@@ -2,7 +2,7 @@
 #!/bin/bash
 # =============================================================================
 # Script 2: FOSS Package Inspector
-# Author: Shubham Kumar | Roll No: 24BCG10078
+# Author: Aatreyee Bhattacharjee | Roll No: 24BEC10003
 # Course: Open Source Software | Capstone Project
 # Description: Checks if Python and related packages are installed,
 #              displays version/license info, and explains their philosophy.
