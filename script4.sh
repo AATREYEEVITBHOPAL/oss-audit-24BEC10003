@@ -2,7 +2,7 @@
 #!/bin/bash
 # =============================================================================
 # Script 4: Log File Analyzer
-# Author: Shubham Kumar | Roll No: 24BCG10078
+# Author: Aatreyee Bhattacharjee | Roll No: 24BEC10003
 # Course: Open Source Software | Capstone Project
 # Description: Reads a log file line by line, counts keyword occurrences,
 #              and prints a summary. Works with WSL system logs or any log file.
@@ -59,7 +59,7 @@ echo "============================================================"
 echo "         LOG FILE ANALYZER — OSS Capstone Project          "
 echo "============================================================"
 echo ""
-echo "  Student  : Shubham Kumar | 24BCG10078"
+echo "  Student  : Aatreyee Bhattacharjee | Roll No: 24BEC10003"
 echo "  Log File : $LOGFILE"
 echo "  Keyword  : '$KEYWORD'"
 echo "  Started  : $(date '+%d %B %Y %H:%M:%S')"
