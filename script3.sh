@@ -2,7 +2,7 @@
 #!/bin/bash
 # =============================================================================
 # Script 3: Disk and Permission Auditor
-# Author: Shubham Kumar | Roll No: 24BCG10078
+# Author: Aatreyee Bhattacharjee | Roll No: 24BEC10003
 # Course: Open Source Software | Capstone Project
 # Description: Loops through important system directories and reports
 #              permissions, ownership, and disk usage. Also checks
@@ -16,7 +16,7 @@ echo "============================================================"
 echo "       DISK AND PERMISSION AUDITOR — OSS Capstone          "
 echo "============================================================"
 echo ""
-echo "  Student: Shubham Kumar | Roll: 24BCG10078"
+echo "  Student: Aatreyee Bhattacharjee | Roll No: 24BEC10003"
 echo "  Software Audited: Python (PSF License)"
 echo "  Date: $(date '+%d %B %Y %H:%M:%S')"
 echo ""
